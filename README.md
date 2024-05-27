@@ -1,9 +1,10 @@
 # JavaScript Sample Problems
-- count (2)
+- count (3)
 
 ## Previously Solved (latest first)
-1. [inspiring alice to code](./basics-first-program/alice-print.js)
-2. [i like js](./basics-intro/console-log.js)
+1. [alice in wonderland](./basics-first-program/alice-in-wonderland.js)
+2. [inspiring alice to code](./basics-first-program/alice-print.js)
+3. [i like js](./basics-intro/console-log.js)
 
 ## Knowledge Map
 - basics
@@ -25,4 +26,5 @@ topic|descriptions|num
 topic|descriptions|num
 :-:|:-:|:-:
 [inspiring alice to code](./basics-first-program/alice-print.js)|first program|2
+[alice in wonderland](./basics-first-program/alice-in-wonderland.js)|first program|3
 <hr>
