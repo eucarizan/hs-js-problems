@@ -3,11 +3,12 @@
 - [multi line programs](#multi-line-programs)
   - [printing text](#printing-text)
   - [writing a program](#writing-a-program)
+  - [tic tac toe](#tic-tac-toe)
 
+## printing text
 <details>
 <summary>Printing text</summary>
 
-## printing text
 ### description
 Write a program that prints the following text:
 ```console
@@ -21,10 +22,10 @@ winter
 
 </details>
 
+## writing a program
 <details>
 <summary>Writing a program</summary>
 
-## writing a program
 ### description
 Write a program that prints the following text:
 ```console
@@ -55,6 +56,17 @@ ocean?
 
 ### solution
 [writing-a-program.js](./writing-a-program.js)
+
+</details>
+
+## tic tac toe
+<details>
+<summary>Tic-Tac-Toe</summary>
+
+### description
+
+### solution
+[tic-tac-toe.js](./tic-tac-toe.js)
 
 </details>
 
