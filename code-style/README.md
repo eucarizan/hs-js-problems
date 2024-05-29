@@ -2,6 +2,7 @@
 
 - [comments](#comments)
   - [i am learning javascript](#i-am-learning-javascript)
+  - [uncomment a line](#uncomment-a-line)
 
 ## i am learning javascript
 <details>
@@ -12,6 +13,17 @@ Comment the code so that the result of its output is the line `I am learning Jav
 
 ### solution
 [i-am-learning.js](./i-am-learning.js)
+
+</details>
+
+## uncomment a line
+<details>
+<summary>Uncomment a line</summary>
+
+### description
+
+### solution
+[uncomment.js](./uncomment.js)
 
 </details>
 
