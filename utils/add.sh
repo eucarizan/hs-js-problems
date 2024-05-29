@@ -8,10 +8,10 @@ else
     touch $1.js
     echo "updating readme"
     cat ../utils/details | sed -i "$2r /dev/stdin" README.md
-    sed -i "$2i [$3](#$3)" README.md
-    sed -i "$(($2+2))i <summary>$3</summary>" README.md
-    sed -i "$(($2+4))i ## $3" README.md
-    sed -i "$(($2+8))i [$1.js](./$1.js)" README.md
+    sed -i "$(($2+1))i ## $3" README.md
+    sed -i "$(($2+2))i [$3](#$3)" README.md
+    sed -i "$(($2+4))i <summary>$3</summary>" README.md
+    sed -i "$(($2+9))i [$1.js](./$1.js)" README.md
 fi
 
 

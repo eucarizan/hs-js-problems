@@ -83,7 +83,7 @@ O O X
 
 ## pine in a snowfall
 <details>
-<summary>pine in a snowfall</summary>
+<summary>Pine in a snowfall</summary>
 
 ### description
 Write a program that prints this lovely winter pine with `#` and `.` symbols:
