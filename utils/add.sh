@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 read -d '' details << EOF
+
 <details>
 
 ### description
@@ -15,15 +16,16 @@ if [[ -z $1 ]] || [[ -z $2 ]] || [[ -z $3 ]]; then
 #elif [[ ! -f ../../../utils/details ]]; then
 #    echo "missing details file"
 else
-    echo "creating js file"
+    echo "creating js file: $1.js"
     touch $1.js
     echo "updating readme"
 #    cat ../../../utils/details | sed -i "$2r /dev/stdin" README.md
     echo "$details" | sed -i "$2r /dev/stdin" README.md
-    sed -i "$(($2+1))i ## $3" README.md
+    sed -i "$(($2+1))i \n## $3" README.md
     sed -i "$(($2+2))i [$3](#$3)" README.md
     sed -i "$(($2+4))i <summary>$3</summary>" README.md
     sed -i "$(($2+9))i [$1.js](./$1.js)" README.md
+    echo "done"
 fi
 
 
