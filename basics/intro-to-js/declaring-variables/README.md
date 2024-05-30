@@ -4,6 +4,7 @@
   - [creating a variable](#creating-a-variable)
   - [refactoring](#refactoring)
   - [printing several variables](#printing-several-variables)
+  - [let or const](#let-or-const)
 
 ## creating a variable
 <details>
@@ -55,19 +56,22 @@ Jessica
 
 </details>
 
-[<<](../../../README.md)
-<!--
+## let or const
 <details>
-<summary></summary>
+<summary>let or const</summary>
 
-## 
 ### description
+Why doesn't the variable value change to the `offline` string? Find the error and fix it.
+
+### code
+```js
+const status = "online";
+status = "offline";
+```
 
 ### solution
+[let-const.js](./let-const.js)
 
 </details>
 
--->
-
-
-
+[<<](../../../README.md)
