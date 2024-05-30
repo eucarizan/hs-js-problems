@@ -3,6 +3,7 @@
 - [declaring variables](#declaring-variables)
   - [creating a variable](#creating-a-variable)
   - [refactoring](#refactoring)
+  - [printing several variables](#printing-several-variables)
 
 ## creating a variable
 <details>
@@ -28,6 +29,29 @@ var name = "Catherine";
 
 ### solution
 [cath.js](./cath.js)
+
+</details>
+
+## printing several variables
+<details>
+<summary>printing several variables</summary>
+
+### description
+Print all variables in the given code into the console.
+
+### examples
+**Sample Input 1:**
+```
+```
+
+**Sample Output 1:**
+```
+Jessica
+26
+```
+
+### solution
+[print-vars.js](./print-vars.js)
 
 </details>
 
