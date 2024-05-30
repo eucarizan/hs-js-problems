@@ -6,4 +6,8 @@
 2|basics|[writing first program](./basics/intro-to-js/first-program/README.md)
 3|basics|[multi line programs](./basics/intro-to-js/multiline/README.md)
 4|code style|[comments](./code-style/README.md)
+5|basics|[declaring variables](basics/intro-to-js/declaring-variables/README.md)
 <hr>
+<!--
+||[](.//README.md)
+-->
