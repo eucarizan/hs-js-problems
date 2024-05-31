@@ -7,6 +7,7 @@
 3|basics|[multi line programs](./basics/intro-to-js/multiline/README.md)
 4|code style|[comments](./code-style/README.md)
 5|basics|[declaring variables](basics/intro-to-js/declaring-variables/README.md)
+6|data types|[strings and numbers](basics/data-types/strings-numbers/README.md)
 <hr>
 <!--
 ||[](.//README.md)
