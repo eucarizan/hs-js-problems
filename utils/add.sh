@@ -8,7 +8,7 @@ read -d '' details << EOF
 ### solution
 
 </details>
-
+\  
 EOF
 
 if [[ -z $1 ]] || [[ -z $2 ]] || [[ -z $3 ]]; then
@@ -20,8 +20,9 @@ else
     touch $1.js
     echo "updating readme"
 #    cat ../../../utils/details | sed -i "$2r /dev/stdin" README.md
+    sed -i "$2i \ " README.md 
     echo "$details" | sed -i "$2r /dev/stdin" README.md
-    sed -i "$(($2+1))i \n## $3" README.md
+    sed -i "$(($2+1))i ## $3" README.md
     sed -i "$(($2+2))i [$3](#$3)" README.md
     sed -i "$(($2+4))i <summary>$3</summary>" README.md
     sed -i "$(($2+9))i [$1.js](./$1.js)" README.md
