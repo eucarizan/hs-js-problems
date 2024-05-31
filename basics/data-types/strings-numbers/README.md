@@ -3,6 +3,7 @@
 - [strings and numbers](#strings and numbers)
   - [printing a number](#printing-a-number)
   - [printing a name](#printing-a-name)
+  - [typeof](#typeof)
 
 ## printing a number 
 <details>
@@ -25,6 +26,18 @@ Create a variable `name` with your name and log it to the console. The name shou
 
 ### solution
 [print-name.js](./print-name.js)
+
+</details>
+
+## typeof
+<details>
+<summary>typeof</summary>
+
+### description
+Using the `typeof` operator, output the data type of the object `555` to the console.
+
+### solution
+[type-of.js](./type-of.js)
 
 </details>
 
