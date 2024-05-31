@@ -4,6 +4,7 @@
   - [printing a number](#printing-a-number)
   - [printing a name](#printing-a-name)
   - [typeof](#typeof)
+  - [printing the type](#printing-the-type)
 
 ## printing a number 
 <details>
@@ -38,6 +39,25 @@ Using the `typeof` operator, output the data type of the object `555` to the con
 
 ### solution
 [type-of.js](./type-of.js)
+
+</details>
+
+## printing the type
+<details>
+<summary>Printing the type</summary>
+
+### description
+Write a code that prints the type of these three objects to the console:
+```
+"an apple"
+631
+9.3
+```
+
+Make sure you print the type, not the actual object.
+
+### solution
+[print-type.js](./print-type.js)
 
 </details>
 
