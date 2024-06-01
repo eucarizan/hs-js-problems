@@ -4,6 +4,7 @@
   - [call the function](#call-the-function)
   - [square](#square)
   - [cities and countries](#cities-and-countries)
+  - [a difference](#a-difference)
 
 ## call the function 
 <details>
@@ -78,6 +79,43 @@ London is the capital of Great Britain
 
 ### solution
 [city-countries.js](./city-countries.js)
+
+</details>
+ 
+## a difference
+<details>
+<summary>A difference</summary>
+
+### description
+Change the function so that it returns the difference between the number `a` and the sum of `b` and `c`.
+
+>Use the `return` operator; do not output the values to the console.
+
+**Sample Input 1:**
+```
+33 2 1
+
+```
+
+**Sample Output 1:**
+```
+30
+
+```
+
+**Sample Input 2:**
+```
+30 20 10
+
+```
+
+**Sample Output 2:**
+```
+0
+```
+
+### solution
+[difference.js](./difference.js)
 
 </details>
 
