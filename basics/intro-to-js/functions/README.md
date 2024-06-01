@@ -3,6 +3,7 @@
 - [functions](#functions)
   - [call the function](#call-the-function)
   - [square](#square)
+  - [cities and countries](#cities-and-countries)
 
 ## call the function 
 <details>
@@ -58,8 +59,29 @@ Declare the function named `countSquare` that takes a number and returns its squ
 [square.js](./square.js)
 
 </details>
+ 
+## cities and countries
+<details>
+<summary>Cities and countries</summary>
+
+### description
+Change the function so that it accepts 2 parameters: `city` and `country`.
+
+**Sample Input 1:**
+```
+```
+
+**Sample Output 1:**
+```
+London is the capital of Great Britain
+```
+
+### solution
+[city-countries.js](./city-countries.js)
+
+</details>
 
 [<<](../../../README.md)
 <!--
 :%s/\(Sample \(Input\|Output\) \d:\)\n\(.*\)/```\r\r**\1**\r```\3/gc
-->
+-->
