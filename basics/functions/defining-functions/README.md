@@ -4,6 +4,7 @@
   - [square off](#square-off)
   - [create a function definition](#create-a-function-definition)
   - [create a function expression](#create-a-function-expression)
+  - [create an arrow function](#create-an-arrow-function)
 
 ## square off 
 <details>
@@ -42,6 +43,20 @@ We recommend defining a function.
 
 ### solution
 [sum.js](./sum.js)
+
+</details>
+ 
+## create an arrow function
+<details>
+<summary>Create an arrow function</summary>
+
+### description
+Create the `returnNumber` function that takes a number as a parameter and returns it.
+
+We recommend defining a function.
+
+### solution
+[return.js](./return.js)
 
 </details>
 
