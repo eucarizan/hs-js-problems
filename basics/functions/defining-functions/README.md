@@ -3,6 +3,7 @@
 - [defining functions](#defining-functions)
   - [square off](#square-off)
   - [create a function definition](#create-a-function-definition)
+  - [create a function expression](#create-a-function-expression)
 
 ## square off 
 <details>
@@ -27,6 +28,20 @@ We recommend defining a function.
 
 ### solution
 [sayhi.js](./sayhi.js)
+
+</details>
+ 
+## create a function expression
+<details>
+<summary>Create a function expression</summary>
+
+### description
+Create the `sum` function that takes two numbers as parameters and returns their sum.
+
+We recommend defining a function.
+
+### solution
+[sum.js](./sum.js)
 
 </details>
 
