@@ -5,6 +5,7 @@
   - [printing a name](#printing-a-name)
   - [typeof](#typeof)
   - [printing the type](#printing-the-type)
+  - [counting numbers and lowercase letters in a string](#counting-numbers-and-lowercase-letters-in-a-string)
 
 ## printing a number 
 <details>
@@ -58,6 +59,43 @@ Make sure you print the type, not the actual object.
 
 ### solution
 [print-type.js](./print-type.js)
+
+</details>
+ 
+## counting numbers and lowercase letters in a string
+<details>
+<summary>Counting numbers and lowercase letters in a string</summary>
+
+### description
+Counting numbers and lowercase letters in a string
+
+>Hey there! This problem might be a bit unpredictable, but give it a go and let us know how you do!
+
+Write a JavaScript program that takes a string as input, consisting of lowercase letters and numbers only. Your program must count how many numbers and letters are in the string and print both counts separated by a space. For example, if you have the string 'a1b2c3', your program should output '3 3'.
+
+### examples
+**Sample Input 1:**
+```
+a1b2c3
+```
+
+**Sample Output 1:**
+```
+3 3
+```
+
+**Sample Input 2:**
+```
+abcdef
+```
+
+**Sample Output 2:**
+```
+0 6
+```
+
+### solution
+[count.js](./count.js)
 
 </details>
 
