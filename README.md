@@ -8,6 +8,7 @@
 5|basics|[declaring variables](basics/intro-to-js/declaring-variables/README.md)
 6|data types|[strings and numbers](basics/data-types/strings-numbers/README.md)
 7|basics|[functions](./basics/intro-to-js/functions/README.md)
+8|basics|[anonymous functions](./basics/functions/anonymous/README.md)
 <hr>
 <!--
 ||[](.//README.md)
