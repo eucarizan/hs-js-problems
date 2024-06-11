@@ -3,6 +3,7 @@
 - [project](#project)
   - [create anonymous function 1](#create-anonymous-function-1)
   - [create anonymous function 2](#create-anonymous-function-2)
+  - [create arrow function](#create arrow function)
  
 ## create anonymous function 1
 <details>
@@ -25,6 +26,18 @@ Create an anonymous function that returns the string `John` and assign it to the
 
 ### solution
 [anonymous-name.js](./anonymous-name.js)
+
+</details>
+ 
+## create arrow function
+<details>
+<summary>create arrow function</summary>
+
+### description
+Create an arrow function that returns the `Hello world!` string and assigns it to the `greeting` const.
+
+### solution
+[anonymous-greeting.js](./anonymous-greeting.js)
 
 </details>
 
