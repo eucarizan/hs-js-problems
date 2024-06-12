@@ -4,6 +4,7 @@
   - [working code](#working-code)
   - [captain](#captain)
   - [arrow function to square a number](#arrow-function-to-square-a-number)
+  - [mistake](#mistake)
  
 ## working code
 <details>
@@ -84,6 +85,22 @@ Create an arrow function that takes a single number as input and returns the squ
 
 ### solution
 [square-of-number.js](./square-of-number.js)
+
+</details>
+ 
+## mistake
+<details>
+<summary>Mistake</summary>
+
+### description
+Find the mistake in setting the arrow function and fix it:
+```javascript
+let func = (a, b) => ( return a * b);
+console.log(func(5, 10));
+```
+
+### solution
+[mistake.js](./mistake.js)
 
 </details>
 
