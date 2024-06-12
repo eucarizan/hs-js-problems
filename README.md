@@ -9,6 +9,7 @@
 6|data types|[strings and numbers](basics/data-types/strings-numbers/README.md)
 7|basics|[functions](./basics/intro-to-js/functions/README.md)
 8|basics|[anonymous functions](./basics/functions/anonymous/README.md)
+9|basics|[arrow functions](./basics/functions/arrow-functions/README.md)
 <hr>
 <!--
 ||[](.//README.md)
