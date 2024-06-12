@@ -5,6 +5,7 @@
   - [captain](#captain)
   - [arrow function to square a number](#arrow-function-to-square-a-number)
   - [mistake](#mistake)
+  - [code correcting](#code-correcting)
  
 ## working code
 <details>
@@ -101,6 +102,22 @@ console.log(func(5, 10));
 
 ### solution
 [mistake.js](./mistake.js)
+
+</details>
+ 
+## code correcting
+<details>
+<summary>code correcting</summary>
+
+### description
+Find the error in the code below and fix it.
+```javascript
+let someFunc = (k, l, m) = k + l + m;
+someFunc();
+```
+
+### solution
+[code-correct.js](./code-correct.js)
 
 </details>
 
