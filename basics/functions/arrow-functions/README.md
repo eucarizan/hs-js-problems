@@ -3,6 +3,7 @@
 - [arrow functions](#arrow-functions)
   - [working code](#working-code)
   - [captain](#captain)
+  - [arrow function to square a number](#arrow-function-to-square-a-number)
  
 ## working code
 <details>
@@ -47,6 +48,42 @@ captain Jack Sparrow
 
 ### solution
 [captain.js](./captain.js)
+
+</details>
+ 
+## arrow function to square a number
+<details>
+<summary>Arrow function to square a number</summary>
+
+### description
+Create an arrow function that takes a single number as input and returns the square of that number. The input will be a single integer on a line. Print the squared result.
+
+### examples
+**Sample Input 1:**
+```
+5
+
+```
+
+**Sample Output 1:**
+```
+25
+
+```
+
+**Sample Input 2:**
+```
+0
+
+```
+
+**Sample Output 2:**
+```
+0
+```
+
+### solution
+[square-of-number.js](./square-of-number.js)
 
 </details>
 
