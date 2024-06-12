@@ -6,6 +6,7 @@
   - [arrow function to square a number](#arrow-function-to-square-a-number)
   - [mistake](#mistake)
   - [code correcting](#code-correcting)
+  - [multiplication](#multiplication)
  
 ## working code
 <details>
@@ -118,6 +119,28 @@ someFunc();
 
 ### solution
 [code-correct.js](./code-correct.js)
+
+</details>
+ 
+## multiplication
+<details>
+<summary>Multiplication</summary>
+
+### description
+Declare the function named multiplication, which takes any two numbers as parameters and returns the result of their multiplication.
+
+**Sample Input 1**:
+```
+2 6
+```
+
+**Sample Output 1**:
+```
+12
+```
+
+### solution
+[multiply.js](./multiply.js)
 
 </details>
 
