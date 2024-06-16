@@ -2,14 +2,15 @@
 
 #|category|topic
 :-:|:-:|:--
-1|basics|[introduction to javascript](./basics/intro-to-js/intro/README.md)
-2|basics|[writing first program](./basics/intro-to-js/first-program/README.md)
-4|code style|[comments](./code-style/README.md)
-5|basics|[declaring variables](basics/intro-to-js/declaring-variables/README.md)
-6|data types|[strings and numbers](basics/data-types/strings-numbers/README.md)
-7|basics|[functions](./basics/intro-to-js/functions/README.md)
-8|basics|[anonymous functions](./basics/functions/anonymous/README.md)
-9|basics|[arrow functions](./basics/functions/arrow-functions/README.md)
+01|basics|[introduction to javascript](./basics/intro-to-js/intro/README.md)
+02|basics|[writing first program](./basics/intro-to-js/first-program/README.md)
+03|code style|[comments](./code-style/README.md)
+04|basics|[declaring variables](basics/intro-to-js/declaring-variables/README.md)
+05|data types|[strings and numbers](basics/data-types/strings-numbers/README.md)
+06|basics|[functions](./basics/intro-to-js/functions/README.md)
+07|basics|[anonymous functions](./basics/functions/anonymous/README.md)
+08|basics|[arrow functions](./basics/functions/arrow-functions/README.md)
+10|working with data|[arrays](./working-with-data/arrays/README.md)
 <hr>
 <!--
 ||[](.//README.md)
