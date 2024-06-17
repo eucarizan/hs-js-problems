@@ -2,6 +2,7 @@
 
 - [array creation](#array-creation)
   - [the of method](#the-of-method)
+  - [array creation](#array-creation)
  
 ## the of method
 <details>
@@ -23,6 +24,31 @@
 
 ### solution
 [of-method.js](./of-method.js)
+
+</details>
+ 
+## array creation
+<details>
+<summary>Array creation</summary>
+
+### description
+Create a function named createNewArray and it accepts three arguments, i.e. `value`, `start`, `end`. Use the `originalArr` and `fill()` method and then return the newly created array.
+
+### examples
+**Sample Input 1:**
+```
+3
+0
+8
+```
+
+**Sample Output 1:**
+```
+[ 3, 3, 3, 3, 3, 3, 3, 3 ]
+```
+
+### solution
+[array-creation.js](./array-creation.js)
 
 </details>
 
