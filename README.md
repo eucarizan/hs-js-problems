@@ -10,7 +10,8 @@
 06|basics|[functions](./basics/intro-to-js/functions/README.md)
 07|basics|[anonymous functions](./basics/functions/anonymous/README.md)
 08|basics|[arrow functions](./basics/functions/arrow-functions/README.md)
-10|working with data|[arrays](./working-with-data/arrays/README.md)
+09|working with data|[arrays](./working-with-data/arrays/README.md)
+10|working with data|[array-creation](./working-with-data/array-creation/README.md)
 <hr>
 <!--
 ||[](.//README.md)
