@@ -3,6 +3,7 @@
 - [introduction to objects](#introduction-to-objects)
   - [it is alive](#it-is-alive)
   - [wrestler with errors](#wrestler-with-errors)
+  - [access to property](#access-to-property)
  
 ## it is alive
 <details>
@@ -49,6 +50,18 @@ let song(
 
 ### solution
 [wrestler.js](./wrestler.js)
+
+</details>
+ 
+## access to property
+<details>
+<summary>Access to property</summary>
+
+### description
+Suppose you need to know the `price` of the `product`. Print this object property to the console.
+
+### solution
+[access.js](./access.js)
 
 </details>
 
