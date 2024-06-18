@@ -2,6 +2,7 @@
 
 - [introduction to objects](#introduction-to-objects)
   - [it is alive](#it-is-alive)
+  - [wrestler with errors](#wrestler-with-errors)
  
 ## it is alive
 <details>
@@ -28,6 +29,26 @@ true
 
 ### solution
 [robot.js](./robot.js)
+
+</details>
+ 
+## wrestler with errors
+<details>
+<summary>Wrestler with errors</summary>
+
+### description
+A lot of errors are hidden in the code below. Find and fix them all!
+
+```javascript
+let song(
+    name: "Twinkle, Twinkle, Little Star",
+    author: Jane Taylor,
+    date: 1806,
+);
+```
+
+### solution
+[wrestler.js](./wrestler.js)
 
 </details>
 
