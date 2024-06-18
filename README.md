@@ -12,6 +12,7 @@
 08|basics|[arrow functions](./basics/functions/arrow-functions/README.md)
 09|working with data|[arrays](./working-with-data/arrays/README.md)
 10|working with data|[array-creation](./working-with-data/array-creation/README.md)
+11|basics|[introduction to objects](./basics/data-types/objects-intro/README.md)
 <hr>
 <!--
 ||[](.//README.md)
