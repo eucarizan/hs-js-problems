@@ -1,7 +1,8 @@
-# project
+# boolean and logical operators
 
-- [project](#project)
+- [boolean and logical operators](#boolean-and-logical-operators)
   - [boolean value](#boolean-value)
+  - [changing priority](#changing-priority)
  
 ## boolean value
 <details>
@@ -12,6 +13,23 @@ Declare a variable called `bool1`. Set the value of the statement variable `true
 
 ### solution
 [boolean-value.js](./boolean-value.js)
+
+</details>
+ 
+## changing priority
+<details>
+<summary>Changing priority</summary>
+
+### description
+Improve the following code using only the parentheses so that the result is `true`:
+
+```javascript
+statement = false;
+console.log(!statement && false || false);
+```
+
+### solution
+[change-prio.js](./change-prio.js)
 
 </details>
 
