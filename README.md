@@ -13,6 +13,7 @@
 09|working with data|[arrays](./working-with-data/arrays/README.md)
 10|working with data|[array-creation](./working-with-data/array-creation/README.md)
 11|basics|[introduction to objects](./basics/data-types/objects-intro/README.md)
+12|basics|[boolean and logical operators](./basics/data-types/boolean-logical/README.md)
 <hr>
 <!--
 ||[](.//README.md)
