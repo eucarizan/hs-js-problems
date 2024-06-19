@@ -3,6 +3,7 @@
 - [boolean and logical operators](#boolean-and-logical-operators)
   - [boolean value](#boolean-value)
   - [changing priority](#changing-priority)
+  - [hey fellows make no errors](#hey-fellows-make-no-errors)
  
 ## boolean value
 <details>
@@ -30,6 +31,23 @@ console.log(!statement && false || false);
 
 ### solution
 [change-prio.js](./change-prio.js)
+
+</details>
+ 
+## hey fellows make no errors
+<details>
+<summary>Hey, fellows, make no errors!</summary>
+
+### description
+Find the mistake in the following code and fix it.
+```javascript
+console.log(!(!false && true) || !!false & & true);
+```
+
+>The location of brackets, operators and operands is important. Do not change its position and do not remove it.
+
+### solution
+[no-errors.js](./no-errors.js)
 
 </details>
 
