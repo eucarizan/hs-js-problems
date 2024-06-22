@@ -2,6 +2,7 @@
 
 - [conditional operators](#conditional-operators)
   - [going out tonight](#going-out-tonight)
+  - [code correcting](#code-correcting)
  
 ## going out tonight
 <details>
@@ -14,6 +15,34 @@ Set the value of `18` to the variable `age`. Set the condition of age checking t
 
 ### solution
 [is-legal.js](./is-legal.js)
+
+</details>
+ 
+## code correcting
+<details>
+<summary>Code correcting</summary>
+
+### description
+Change the code so that the result of printing will be Anna is going to study at University.
+
+```javascript
+let age = 6;
+
+if (age < 6) {
+        console.log("Anna is a little child");
+} else if (age >= 6 && age < 18) {
+        console.log("Anna goes to school");
+} else if (age === 18) {
+        console.log("Anna is going to study at University");
+} else if (age > 18 && age < 22) {
+        console.log("Anna studies at University");
+} else {
+        console.log("Anna works");
+}
+```
+
+### solution
+[code-correct.js](./code-correct.js)
 
 </details>
 
