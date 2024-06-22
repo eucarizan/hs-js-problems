@@ -15,6 +15,7 @@
 11|basics|[introduction to objects](./basics/data-types/objects-intro/README.md)
 12|basics|[boolean and logical operators](./basics/data-types/boolean-logical/README.md)
 13|basics|[comparison operators](./basics/operations/comparison/README.md)
+14|basics|[conditional operators](./basics/conditions/conditional/README.md)
 <hr>
 <!--
 ||[](.//README.md)
