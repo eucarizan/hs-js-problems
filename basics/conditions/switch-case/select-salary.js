@@ -1,14 +1,20 @@
 function getSalary(value) {
+  let cost = 0;
   switch(value) {
     case "Bootstrap":
-      return "$15 per hour";
+      cost = 15;
+      break;
     case "Chrome Extension":
-      return "$20 per hour";
+      cost = 20;
+      break;
     case "React":
-      return "$30 per hour";
+      cost = 30;
+      break;
     default:
-      return "$25 per hour";
+      cost = 25;
+      break;
   }
+  return `$${cost} per hour`;
 }
 
 console.log(getSalary("Bootstrap"));
