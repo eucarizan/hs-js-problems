@@ -52,9 +52,9 @@ if (age < 6) {
 <summary>the speed of light and sound</summary>
 
 ### description
-What do you know about the speed of light and the speed of sound? The speed of light is 299792458 m/s. Set the speed of light to the light variable, and the speed of sound (343 m/s) to the variable sound.
+What do you know about the speed of light and the speed of sound? The speed of light is 299792458 m/s. Set the speed of light to the `light` variable, and the speed of sound (343 m/s) to the variable `sound`.
 
-Using the ternary operator, set the variable lightIsPower as true if the speed of light is greater than the speed of sound and false, otherwise. Print the variable result in the console.
+Using the ternary operator, set the variable `lightIsPower` as `true` if the speed of light is greater than the speed of sound and `false`, otherwise. Print the variable result in the console.
 
 ### solution
 [sound-vs-light.js](./sound-vs-light.js)

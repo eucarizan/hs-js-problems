@@ -16,6 +16,7 @@
 12|basics|[boolean and logical operators](./basics/data-types/boolean-logical/README.md)
 13|basics|[comparison operators](./basics/operations/comparison/README.md)
 14|basics|[conditional operators](./basics/conditions/conditional/README.md)
+15|basics|[multiple conditions. switch..case statment](./basics/conditions/switch-case/README.md)
 <hr>
 <!--
 ||[](.//README.md)
