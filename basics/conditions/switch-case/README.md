@@ -3,6 +3,7 @@
 - [project](#project)
   - [workdays](#workdays)
   - [a short history of languages](#a-short-history-of-languages)
+  - [what is your salary](#what-is-your-salary)
  
 ## workdays
 <details>
@@ -62,6 +63,37 @@ Begins on December 4, 1995
 
 ### solution
 [language-info.js](./language-info.js)
+
+</details>
+ 
+## what is your salary
+<details>
+<summary>What is your salary?</summary>
+
+### description
+Create a `switch` operator inside the function `getSalary`. It should show the following text in the `console.log` depending on the values:
+
+value|text in console.log
+:-:|:-:
+"Bootstrap"|$15 per hour
+"Chrome Extension"|$20 per hour
+"React"|$30 per hour
+other cases|$25 per hour
+
+### examples
+**Sample Input 1:**
+```
+Bootstrap
+
+```
+
+**Sample Output 1:**
+```
+$15 per hour
+```
+
+### solution
+[select-salary.js](./select-salary.js)
 
 </details>
 
