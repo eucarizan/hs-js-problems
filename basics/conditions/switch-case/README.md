@@ -2,6 +2,7 @@
 
 - [project](#project)
   - [workdays](#workdays)
+  - [a short history of languages](#a-short-history-of-languages)
  
 ## workdays
 <details>
@@ -25,6 +26,42 @@ Yes, you should go to work
 
 ### solution
 [workdays.js](./workdays.js)
+
+</details>
+ 
+## a short history of languages
+<details>
+<summary>A short history of languages</summary>
+
+### description
+Rewrite the `languageInfo` function using the `switch` operator.
+
+```javascript
+function languageInfo(language) {
+  if (language === "JavaScript"){
+    console.log("Begins on December 4, 1995");
+  } else if (language === "Java") {
+    console.log("Begins on May 23, 1995");
+  } else if (language === "PHP") {
+    console.log("Begins on June 8, 1995");
+  }
+}
+```
+
+### examples
+**Sample Input 1:**
+```
+JavaScript
+
+```
+
+**Sample Output 1:**
+```
+Begins on December 4, 1995
+```
+
+### solution
+[language-info.js](./language-info.js)
 
 </details>
 
