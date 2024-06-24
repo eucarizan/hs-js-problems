@@ -3,6 +3,7 @@
 - [date](#date)
   - [tired programmer](#tired-programmer)
   - [hours of our life](#hours-of-our-life)
+  - [mixed everything up](#mixed-everything-up)
  
 ## tired programmer
 <details>
@@ -25,6 +26,26 @@ The information about the date of birth of our imaginary friend is stored in the
 
 ### solution
 [hours-until-school.js](./hours-until-school.js)
+
+</details>
+ 
+## mixed everything up
+<details>
+<summary>Mixed everything up</summary>
+
+### description
+A novice programmer wrote a code that counts the difference between two events and adds a year to the resulting expression in milliseconds. But the fluffy cat ran over the keyboard and messed up the code! Help to restore the code so that it works without errors and displays the received time in days in the console (broken lines are marked with `!?`).
+
+```javascript
+let firstEventDate = new Date("2011-01-11")
+let secondEventDate = Date("2023-04-26") //!?
+let differenceWithSum = secondEventDate - firstEventDate + 3600 * 24 * 365 *  //!?
+
+console.log(differenceWithSum / 1000 / 3600 / 24)
+```
+
+### solution
+[mixed-up.js](./mixed-up.js)
 
 </details>
 
