@@ -19,6 +19,7 @@
 15|basics|[multiple conditions. switch..case statment](./basics/conditions/switch-case/README.md)
 16|basics|[date](./basics/data-types/date/README.md)
 17|basics|[increment and decrement](./basics/operations/increment-decrement/README.md)
+18|basics|[loops - for and for in](./basics/loops/for-in/README.md)
 <hr>
 <!--
 ||[](.//README.md)
