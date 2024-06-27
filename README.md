@@ -20,6 +20,7 @@
 16|basics|[date](./basics/data-types/date/README.md)
 17|basics|[increment and decrement](./basics/operations/increment-decrement/README.md)
 18|basics|[loops - for and for in](./basics/loops/for-in/README.md)
+19|basics|[loops - while and do while](./basics/loops/while-do/README.md)
 <hr>
 <!--
 ||[](.//README.md)
