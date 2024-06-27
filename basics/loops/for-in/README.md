@@ -3,6 +3,7 @@
 - [for in](#for-in)
   - [the reverse order](#the-reverse-order)
   - [the sum of numbers](#the-sum-of-numbers)
+  - [fruit](#fruit)
  
 ## the reverse order
 <details>
@@ -27,6 +28,18 @@ Don't forget to call the function and use loops.
 
 ### solution
 [sum-of-numbers.js](./sum-of-numbers.js)
+
+</details>
+ 
+## fruit
+<details>
+<summary>fruit</summary>
+
+### description
+Create an array which contains the following list of fruits: `apple`, `orange`, `banana`. Write a program that will display in the console these fruits line by line.
+
+### solution
+[fruit.js](./fruit.js)
 
 </details>
 
