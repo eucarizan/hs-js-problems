@@ -21,6 +21,7 @@
 17|basics|[increment and decrement](./basics/operations/increment-decrement/README.md)
 18|basics|[loops - for and for in](./basics/loops/for-in/README.md)
 19|basics|[loops - while and do while](./basics/loops/while-do/README.md)
+20|basics|[loops - break and continue](./basics/loops/break-continue/README.md)
 <hr>
 <!--
 ||[](.//README.md)
