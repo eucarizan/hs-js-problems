@@ -3,6 +3,7 @@
 - [break and continue](#break-and-continue)
   - [even or odd](#even-or-odd)
   - [the sum of numbers](#the-sum-of-numbers)
+  - [the first occurrence](#the-first-occurrence)
  
 ## even or odd
 <details>
@@ -51,6 +52,42 @@ You are given an array of numbers called `numbers`. Calculate the sum of numbers
 
 ### solution
 [sum.js](./sum.js)
+
+</details>
+ 
+## the first occurrence
+<details>
+<summary>The first occurrence</summary>
+
+### description
+Find the first occurrence of number `5` in the given array and return its index. If the number is not found, return `-1`.
+
+### examples
+**Sample Input 1:**
+```
+10 3 8 5 3 4 5
+
+```
+
+**Sample Output 1:**
+```
+3
+
+```
+
+**Sample Input 2:**
+```
+5 10 111 12
+
+```
+
+**Sample Output 2:**
+```
+0
+```
+
+### solution
+[first-occurrence.js](./first-occurrence.js)
 
 </details>
 
